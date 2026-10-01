@@ -99,6 +99,7 @@
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
 | [Snyk Code](https://snyk.io/) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
+| [Manifest API Bot](https://manifest.build/api-bot/) | GitHub App. Finds the third-party APIs a repo calls, checks them daily, and opens a PR with an LLM-written fix when one of them changes. | Free (early adopters) |
 
 ### App Builders (Prompt-to-App)
 
